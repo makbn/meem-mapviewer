@@ -16,7 +16,7 @@
   <dependency>
 	    <groupId>com.github.makbn</groupId>
 	    <artifactId>meem-mapviewer</artifactId>
-	    <version>v1.0</version>
+	    <version>v1.1</version>
 	</dependency>
   ```
   
@@ -37,7 +37,7 @@
   
   ```gradle
   dependencies {
-	        implementation 'com.github.makbn:meem-mapviewer:v1.0'
+	        implementation 'com.github.makbn:meem-mapviewer:v1.1'
 	}
 ```
   
