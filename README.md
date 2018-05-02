@@ -1,5 +1,4 @@
 # meem-mapviewer
-MEEM Map Viewer  Module
 [![](https://jitpack.io/v/makbn/meem-mapviewer.svg)](https://jitpack.io/#makbn/meem-mapviewer)
 
 ## Using via Maven & Gradle
